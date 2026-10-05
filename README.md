@@ -1,0 +1,1 @@
+# aplicacoes_distribuidas_2026_02
