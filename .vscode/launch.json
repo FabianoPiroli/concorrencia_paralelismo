@@ -2,6 +2,20 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Sequencial",
+      "request": "launch",
+      "mainClass": "Sequencial",
+      "projectName": "concorrencia_paralelismo_63c3e58f"
+    },
+    {
+      "type": "java",
+      "name": "Concorrente",
+      "request": "launch",
+      "mainClass": "Concorrente",
+      "projectName": "concorrencia_paralelismo_63c3e58f"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
